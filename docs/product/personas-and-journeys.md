@@ -4,19 +4,19 @@ Estos perfiles son hipótesis de investigación, no afirmaciones de que todos lo
 
 ## 1. Comercio de barrio
 
-Vende en persona, cobra en efectivo y en ocasiones recibe transferencias que confirma revisando una app. Usa teléfono inteligente para mensajes, pero no tiene tienda en línea ni tiempo para configurar una integración.
+Opera mostrador y mensajería con un proceso que puede ser eficiente para su clientela. Ya maneja efectivo y transferencias; quizá usa terminal, enlaces o registros propios.
 
-Necesita crear un cobro en pocos pasos, compartirlo o mostrarlo, saber que el pago ocurrió realmente y distinguirlo de otros pagos.
+Puede querer unir referencias y estados, aceptar otra opción o simplificar la conciliación, sin tener que abandonar su sistema actual.
 
-Riesgos de diseño: exigir un sitio web, usar términos financieros poco conocidos, depender de conexión rápida o pedir datos innecesarios.
+Riesgos de diseño: tratarlo como principiante, imponer una tienda o app nueva, duplicar registros, ocultar costos o pedir datos que no hacen falta.
 
 ## 2. Vendedor por redes o mensajería
 
-Conversa con cada cliente y envía información manualmente. Tiene presencia digital, pero pedidos, referencias y comprobantes quedan repartidos entre chats.
+Opera canales digitales y puede tener una práctica comercial sofisticada en redes y mensajería. Pedidos, referencias y comprobantes pueden quedar distribuidos entre herramientas que ya domina.
 
-Necesita asociar un cobro a un pedido, compartir una liga confiable, manejar pendientes/vencimientos y reducir conciliación manual.
+Puede querer asociar cobros a pedidos, ofrecer más métodos, manejar pendientes/vencimientos o conciliar sin duplicar su trabajo actual.
 
-Riesgos: enlaces reutilizables por error, importes ambiguos, estado anunciado antes de confirmación o privacidad insuficiente.
+Riesgos: imponer una plataforma nueva, enlaces reutilizables por error, importes ambiguos, estado anunciado antes de confirmación o privacidad insuficiente.
 
 ## 3. Prestador de servicios
 

@@ -2,9 +2,9 @@
 
 **Pagos digitales que se adaptan al día a día de los negocios mexicanos.**
 
-PagoClaro quiere acercar el cobro digital a negocios que hoy operan principalmente con efectivo, transferencias manuales, terminales físicas, llamadas, mensajes o redes sociales. La puerta de entrada debe ser pequeña y familiar: crear un cobro y compartir una liga o código QR por el canal que el negocio ya utiliza. El negocio podrá avanzar hacia un checkout integrado, herramientas de conciliación y automatización cuando eso le aporte valor.
+PagoClaro se dirige a negocios con modelos de operación diversos: ventas presenciales, cobro por mensaje, transferencias, terminales, redes sociales y comercio electrónico. Muchos comerciantes y clientes ya combinan canales y métodos digitales; el producto debe ampliar sus opciones y reducir fricción operativa, sin asumir que necesitan aprender desde cero ni sustituir lo que ya funciona.
 
-No buscamos obligar a cada comercio a reemplazar su forma de trabajar. Buscamos darle una forma clara y confiable de aceptar otra opción de pago, acompañarlo en el primer uso y ayudarle a crecer paso a paso.
+La primera experiencia permitirá crear un cobro y compartir una liga o QR por el canal que el negocio elija. Quien necesite una integración o conciliación más avanzada podrá adoptarla después. La guía será útil y opcional, y el comercio conservará el control de cómo cobra.
 
 > Estado: etapa de cimientos y descubrimiento. El repositorio documenta visión, evidencia, alcance, riesgos y arquitectura propuesta. Todavía no procesa pagos y no declara certificación, autorización regulatoria ni cumplimiento de PCI DSS.
 
@@ -12,7 +12,7 @@ No buscamos obligar a cada comercio a reemplazar su forma de trabajar. Buscamos 
 
 Los Censos Económicos 2024 registraron 5,468,180 unidades económicas del sector privado y empresas paraestatales, con referencia a 2023. El 64.3% operaba en condiciones de informalidad. En 2023, 1,266,352 unidades reportaron utilizar al menos una herramienta de tecnología digital. La proporción que realizó ventas por internet fue 5.6% en total y 4.4% entre micro unidades, frente a 3.0% y 2.1%, respectivamente, en 2018.
 
-La ENIF 2024 encontró que el efectivo seguía siendo el medio de pago más frecuente para compras menores y mayores a 500 pesos, aunque su uso disminuyó mientras aumentaron tarjetas y transferencias. También encontró brechas de inclusión financiera entre grupos y localidades. Esto no significa que todo negocio quiera o pueda aceptar cualquier medio digital. Significa que la solución debe adaptarse a distintos grados de preparación, conectividad, bancarización y experiencia.
+La ENIF 2024 encontró que el efectivo seguía siendo el medio más frecuente para compras menores y mayores a 500 pesos, mientras crecían tarjetas y transferencias. Entre 2021 y 2024, el uso de aplicaciones móviles para movimientos financieros aumentó de 54.3% a 69.1% entre personas con cuenta formal. La lectura para PagoClaro es que el mercado usa una mezcla creciente de canales y métodos: el producto debe interoperar, dar elección y hacer más fácil la operación; no presentar a comercios o clientes como atrasados.
 
 La respuesta de producto será acompañamiento, opciones, transparencia y confianza: empezar por el canal existente del comercio; explicar requisitos, comisiones y estados con claridad; y permitir que el negocio adopte funcionalidades cuando esté listo.
 
@@ -20,7 +20,7 @@ Lee la [investigación de mercado mexicana](docs/research/mexico-market.md) y la
 
 ## Visión
 
-Que los pequeños negocios de México puedan aceptar pagos digitales y vender por sus canales habituales con la misma confianza y claridad que los negocios con equipos técnicos, sin tener que cambiar su operación de un día para otro.
+Que los pequeños negocios de México puedan aceptar y administrar pagos digitales diversos con claridad, por sus canales habituales y con herramientas que respondan a la manera en que cada negocio opera.
 
 ## Principios de producto
 
@@ -28,7 +28,7 @@ Que los pequeños negocios de México puedan aceptar pagos digitales y vender po
 - Convivir con el efectivo y los pagos presenciales; ampliar opciones sin estigmatizar preferencias.
 - Comenzar con enlaces compartibles y cobro por QR; añadir integraciones cuando respondan a demanda real.
 - Explicar importe, comisiones, método, estado, vencimiento, reembolso y siguiente paso.
-- Diseñar para móviles de gama básica, conexiones variables, alfabetización digital diversa y tecnologías de asistencia.
+- Diseñar para teléfonos y conexiones variados, distintas preferencias y niveles de familiaridad con cada producto, y tecnologías de asistencia.
 - Minimizar datos y evitar almacenar números de tarjeta o códigos de seguridad.
 - Confirmar el pago desde eventos confiables del proveedor, no desde la redirección del navegador.
 - Medir adopción, éxito operativo y confianza, no solo registros o clics.
@@ -77,6 +77,8 @@ Consulta el [alcance del MVP](docs/product/mvp-scope.md) y el [roadmap](docs/roa
 - [Fundamentos de seguridad y privacidad](docs/security/security-foundation.md)
 - [Operación y preparación del piloto](docs/operations/operating-readiness.md)
 - [Hoja de ruta](docs/roadmap.md)
+- [Qué mantener público o privado](docs/governance/publication-boundaries.md)
+- [Mapa de avances y capacidades](docs/governance/capability-map.md)
 - [Glosario](docs/glossary.md)
 
 ## Licencia y colaboración

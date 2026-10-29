@@ -2,13 +2,13 @@
 
 ## Tesis
 
-La adopción no comienza con una API. Comienza cuando el negocio entiende qué gana, cuánto cuesta, qué necesita hacer y cómo resolverá el primer cobro. PagoClaro debe integrarse al flujo actual del comercio antes de pedirle que adopte un flujo nuevo.
+Los negocios mexicanos ya usan combinaciones de efectivo, terminal, transferencia, aplicaciones, redes sociales, comercio electrónico y herramientas propias. Una operación tradicional describe cómo se organiza la venta, no cuánto sabe su dueño de tecnología. PagoClaro debe integrarse con ese flujo, aportar una mejora concreta y dejar que el negocio decida qué automatizar.
 
 ## Escalera de adopción
 
 ### Paso 1 — Cobrar como ya vende
 
-Crear una solicitud de cobro desde el teléfono, escribir importe/concepto y compartirla por WhatsApp, SMS o red social. Para venta presencial, presentar un QR que abra el mismo checkout.
+Crear una solicitud de cobro desde el dispositivo que prefiera el comercio, escribir importe/concepto y compartirla por WhatsApp, SMS, red social o un canal integrado. Para venta presencial, presentar un QR que abra el mismo checkout. Este es un camino de entrada entre varios, no el único.
 
 ### Paso 2 — Ver y entender el resultado
 

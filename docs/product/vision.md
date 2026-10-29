@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Hacer que aceptar un pago digital sea un paso alcanzable para un negocio que hoy depende de efectivo, transferencias manuales, terminales físicas o ventas por conversación. PagoClaro debe encontrarse con el comercio en sus canales actuales y añadir capacidad sin exigir una transformación total desde el primer día.
+Ayudar a negocios mexicanos con operaciones presenciales, digitales o mixtas a recibir pagos por sus canales actuales y sumar nuevas opciones con claridad. Un negocio puede ser experto en atender por WhatsApp, manejar efectivo y conciliar transferencias, y aun así beneficiarse de automatizar ciertas partes del cobro. PagoClaro complementará esa experiencia, sin suponer falta de conocimiento ni exigir un cambio total desde el primer día.
 
 ## Problema que queremos resolver
 
@@ -16,11 +16,11 @@ Un comercio debe poder crear su primer cobro sin programar, compartirlo por un c
 
 ## Diferenciador
 
-PagoClaro se enfocará en adopción asistida y claridad operativa. Una experiencia corta, lenguaje simple, enlace y QR compartibles, precios explicados antes del cobro, historial fácil de revisar y soporte útil para quien cobra por primera vez. Las integraciones avanzadas llegarán después de probar esa experiencia con comercios reales.
+PagoClaro se enfocará en interoperabilidad y claridad operativa: enlaces y QR compartibles, métodos diversos, costos y estados explicados, historial conciliable e integraciones para distintos niveles de operación. La orientación estará disponible para quien la quiera; no convertiremos el apoyo en una capacitación obligatoria ni asumiremos que todos necesitan el mismo recorrido.
 
 ## Principios
 
-1. **Empezar con el canal que ya existe.** WhatsApp, redes, teléfono y atención presencial forman parte del trabajo del comercio.
+1. **Partir del flujo real del comercio.** WhatsApp, redes, teléfono, terminales, transferencias y atención presencial pueden coexistir; entender cómo se combinan antes de proponer cambios.
 2. **Elección sin coerción.** El efectivo y la transferencia manual pueden coexistir con nuevas opciones.
 3. **Transparencia completa.** Mostrar importe, cargos, método y estado en lenguaje directo.
 4. **Diseño inclusivo.** Mobile-first, bajo consumo de datos, accesibilidad y español claro.

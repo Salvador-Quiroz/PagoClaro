@@ -16,18 +16,18 @@ Fuente primaria: [INEGI, Censos Económicos 2024, minimonografía nacional](http
 
 La ENIF 2024 de INEGI y CNBV reporta que 76.5% de personas de 18 a 70 años tenía al menos un producto financiero y 63.0% tenía una cuenta de ahorro formal. El efectivo seguía siendo el medio de pago más frecuente para compras menores y mayores a 500 pesos, aunque disminuyó su frecuencia relativa frente a 2021; tarjetas y transferencias aumentaron. Para compras mayores de 500 pesos, el uso frecuente de transferencias o aplicaciones subió 4.8 puntos porcentuales frente a 2021.
 
-En 2024, 38.0% de la población conocía CoDi; entre quienes lo conocían, 12.8% lo había utilizado. Esto indica que la disponibilidad técnica de una opción no garantiza adopción.
+En 2024, 38.0% de la población conocía CoDi; entre quienes lo conocían, 12.8% lo había utilizado. Esto indica que la disponibilidad técnica de una opción no garantiza adopción. Al mismo tiempo, entre 2021 y 2024, el uso de aplicaciones móviles para consultar o mover dinero subió de 54.3% a 69.1% entre personas con cuenta formal; el porcentaje con cuenta contratada por internet o aplicación no bancaria aumentó de 2.7% a 10.3%. La evidencia describe un mercado que ya adopta herramientas digitales y lo hace de manera diversa, no un mercado que deba empezar desde cero.
 
 Fuente primaria: [INEGI y CNBV, ENIF 2024, comunicado 49/25](https://inegi.org.mx/contenidos/saladeprensa/boletines/2025/enif/ENIF2024_CP.pdf).
 
 ## Lectura para PagoClaro
 
-1. Hay muchos negocios pequeños, pero sus capacidades y formalidad varían. La elegibilidad del proveedor y los requisitos de documentación deben explicarse temprano, con lenguaje simple.
-2. Aceptar pagos digitales debe convivir con efectivo y transferencias que el comercio ya usa.
-3. La primera mejora quizá sea reducir incertidumbre y trabajo manual: crear referencias, compartir instrucciones y reconocer estados, además de añadir métodos.
-4. La entrada por enlaces, QR y mensajería puede reducir la inversión de tiempo frente a una tienda completa, pero esta hipótesis debe validarse con comercios.
-5. Asistencia, precios visibles, conciliación y soporte son parte del producto; no son accesorios de marketing.
-6. Deben probarse casos con baja conectividad, clientes sin tarjeta, comerciantes con teléfono básico y ventas presenciales.
+1. Los comercios tienen capacidades, procesos y preferencias distintos; no deben ordenarse en una escala de “atrasados” a “digitales”. La elegibilidad del proveedor y los requisitos administrativos sí deben ser transparentes desde el comienzo.
+2. La adopción digital y el uso de aplicaciones vienen creciendo, a la vez que efectivo, tarjetas y transferencias siguen coexistiendo.
+3. El valor puede estar en coordinar estados, referencias y conciliación entre canales, además de habilitar métodos nuevos.
+4. Enlaces, QR y mensajería son opciones de integración con flujos existentes, no sustitutos obligatorios de una tienda.
+5. Algunos comercios querrán autoservicio; otros valorarán atención directa. El producto debe permitir ambas rutas.
+6. La investigación debe probar varios dispositivos y condiciones de conexión sin convertirlos en etiquetas sobre la capacidad de las personas.
 
 ## Segmentos iniciales de investigación
 
@@ -36,7 +36,7 @@ Fuente primaria: [INEGI y CNBV, ENIF 2024, comunicado 49/25](https://inegi.org.m
 - Prestadores de servicios, citas y anticipos.
 - Comerciantes con actividad presencial y pagos a distancia.
 
-La etapa de descubrimiento debe evitar sesgo hacia negocios tecnológicos de grandes ciudades. El piloto debería incluir variedad de canales y niveles de experiencia, con consentimiento para observación y entrevistas.
+La etapa de descubrimiento debe incluir negocios urbanos y regionales, presenciales, digitales y mixtos, con distintos volúmenes y prácticas de cobro. La segmentación describirá flujos y necesidades observadas, no supuestos sobre inteligencia, modernidad o capacidad del comerciante.
 
 ## Incógnitas críticas
 
