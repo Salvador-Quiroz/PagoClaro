@@ -1,0 +1,17 @@
+{
+  "name": "pagoclaro",
+  "private": true,
+  "engines": {
+    "node": ">=24"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspace @pagoclaro/payment-domain",
+    "typecheck": "npm run typecheck --workspace @pagoclaro/payment-domain"
+  },
+  "devDependencies": {
+    "typescript": "7.0.2"
+  }
+}
